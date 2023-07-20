@@ -1,11 +1,13 @@
 install.packages("pacman")
-pacman::p_load(dplyr,tidyr)
-require(pacman)`
-
-if(require(pacman)){
-  data()
+if(require(pacman))
+{
+  print ("Packages are Installed")
 }else{
-  install.packages("pacman")
+  print("Packages are not Installed")
 }
 
-view(mpg)
+#library(tidyverse)
+tail <- tail(mpg)
+view(tail)
+
+
