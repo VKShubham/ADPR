@@ -1,21 +1,21 @@
-Name,ID No,Department,DOB,Mobile No,Address
-Shubham Vanani,22IT603,IT,06-07-2004,6353548044,47 Tapovan Society Dhabholi Char Rasta
-Prince Beladiya,22IT605,IT,09-04-2005,5252598796,Yogi Chowk Surat Varcaha
-Poorna Patel,22IT607,CSE,12-11-2003,9879655231,Baroda Railway Station
-Jay Butani,22IT608,IT,31-07-2004,9821478965,Surt Railway Station
-Darshak Kakdiya,22IT609,CSE,01-08-2004,7863522568,Surt Railway Station
-Meet Vanani,22IT610,EC,02-08-2004,9845633257,48 Tapovan Society Dhabholi Char Rasta
-Ashit Patel,22IT611,EC,03-08-2004,6352589201,Valsad Railway Station
-Viraj Gajdhar,22IT612,IT,04-08-2004,9652140044,Valsad Railway Station
-Yug Patel,22IT613,CSE,05-08-2004,8526358804,Anand Railway Station
-Deep Patel,22IT614,CSE,06-08-2004,6353548012,A.V Road
-Harsh Vasoya,22IT615,IT,07-08-2004,6359587100,Lal Darwaja 
-Milap Vaghasiya,22IT616,MECH,08-08-2004,9879688562,Krusnkunj Katrgam Surat
-Dev Patel,22IT617,MECH,09-08-2004,6359478801,Chitodia Railway Station
-Vasu Golakiya,22IT618,CSE,10-08-2004,9263540018,Paldeuim Heights Ramkatha Road Surat
-Monil Golakiya,22IT619,CIVIL,11-08-2004,6354263320,Bhavani Heights Varacha
-Neel Goalkiya,22IT620,MECH,12-08-2004,9821133967,Bhavani Heights Varacha
-Mehul Prajapti,22IT621,CIVIL,13-08-2004,9879623800,Near About N.V Dhmanvala
-Dev Bhojani,22IT622,EC,14-08-2004,6353520844,Lal Gurukul Kasanagar
-Vasu Bharonia,22IT623,IT,15-08-2004,8980050997,Canada Tornto
-Dhuruv Rathee,22IT624,NOTA,16-08-2004,8986632559,Jhandum 
+Name,ID No,Department,DOB,Mobile No,Address,CPI
+Shubham Vanani,22IT603,IT,06-07-2004,6353548044,47 Tapovan Society Dhabholi Char Rasta,6.2
+Prince Beladiya,22IT605,IT,09-04-2005,5252598796,Yogi Chowk Surat Varcaha,6.2
+Poorna Patel,22IT607,CSE,12-11-2003,9879655231,Baroda Railway Station,9.8
+Jay Butani,22IT608,IT,31-07-2004,9821478965,Surt Railway Station,5.23
+Darshak Kakdiya,22IT609,CSE,01-08-2004,7863522568,Surt Railway Station,5.21
+Meet Vanani,22IT610,EC,02-08-2004,9845633257,48 Tapovan Society Dhabholi Char Rasta,8.32
+Ashit Patel,22IT611,EC,03-08-2004,6352589201,Valsad Railway Station,7.56
+Viraj Gajdhar,22IT612,IT,04-08-2004,9652140044,Valsad Railway Station,4.23
+Yug Patel,22IT613,CSE,05-08-2004,8526358804,Anand Railway Station,9.25
+Deep Patel,22IT614,CSE,06-08-2004,6353548012,A.V Road,8.24
+Harsh Vasoya,22IT615,IT,07-08-2004,6359587100,Lal Darwaja ,6.98
+Milap Vaghasiya,22IT616,MECH,08-08-2004,9879688562,Krusnkunj Katrgam Surat,8.98
+Dev Patel,22IT617,MECH,09-08-2004,6359478801,Chitodia Railway Station,7.24
+Vasu Golakiya,22IT618,CSE,10-08-2004,9263540018,Paldeuim Heights Ramkatha Road Surat,9.23
+Monil Golakiya,22IT619,CIVIL,11-08-2004,6354263320,Bhavani Heights Varacha,8.2
+Neel Goalkiya,22IT620,MECH,12-08-2004,9821133967,Bhavani Heights Varacha,5.2
+Mehul Prajapti,22IT621,CIVIL,13-08-2004,9879623800,Near About N.V Dhmanvala,3.25
+Dev Bhojani,22IT622,EC,14-08-2004,6353520844,Lal Gurukul Kasanagar,8.24
+Vasu Bharonia,22IT623,IT,15-08-2004,8980050997,Canada Tornto,2.2
+Dhuruv Rathee,22IT624,NOTA,16-08-2004,8986632559,Jhandum ,0
